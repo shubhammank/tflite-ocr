@@ -1,0 +1,26 @@
+<annotation>
+	<folder>augment_output</folder>
+	<filename>test_full_machine_427.jpg</filename>
+	<path>D:\Het\ocr\augmented\augment_output\test_full_machine_427.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2375</width>
+		<height>2013</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lcd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>942</xmin>
+			<ymin>931</ymin>
+			<xmax>1623</xmax>
+			<ymax>1241</ymax>
+		</bndbox>
+	</object>
+</annotation>

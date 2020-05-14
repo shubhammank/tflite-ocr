@@ -1,0 +1,50 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>45 4.jpg</filename>
+	<path>E:\new_images\new_images\45 4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1598</width>
+		<height>2131</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lcd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>671</xmin>
+			<ymin>887</ymin>
+			<xmax>909</xmax>
+			<ymax>952</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>qr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>632</xmin>
+			<ymin>1478</ymin>
+			<xmax>687</xmax>
+			<ymax>1529</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>qr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1235</xmin>
+			<ymin>1378</ymin>
+			<xmax>1274</xmax>
+			<ymax>1429</ymax>
+		</bndbox>
+	</object>
+</annotation>

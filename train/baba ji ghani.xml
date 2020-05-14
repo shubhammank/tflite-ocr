@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>baba ji ghani.jpg</filename>
+	<path>E:\new_images\new_images\baba ji ghani.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>924</width>
+		<height>1232</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lcd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>338</ymin>
+			<xmax>616</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>qr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>897</ymin>
+			<xmax>474</xmax>
+			<ymax>1002</ymax>
+		</bndbox>
+	</object>
+</annotation>

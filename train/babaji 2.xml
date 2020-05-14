@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>babaji 2.jpg</filename>
+	<path>E:\new_images\new_images\babaji 2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>924</width>
+		<height>1232</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lcd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>308</xmin>
+			<ymin>351</ymin>
+			<xmax>646</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>qr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>868</ymin>
+			<xmax>512</xmax>
+			<ymax>955</ymax>
+		</bndbox>
+	</object>
+</annotation>

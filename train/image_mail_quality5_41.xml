@@ -1,0 +1,26 @@
+<annotation>
+	<folder>augment_output</folder>
+	<filename>image_mail_quality5_41.jpg</filename>
+	<path>D:\Het\ocr\augmented\augment_output\image_mail_quality5_41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4634</width>
+		<height>5003</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lcd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1120</xmin>
+			<ymin>1040</ymin>
+			<xmax>3720</xmax>
+			<ymax>3040</ymax>
+		</bndbox>
+	</object>
+</annotation>

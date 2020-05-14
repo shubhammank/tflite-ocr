@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>1cf3d5a3-c7bd-4367-89ab-2a3b5b645572.jpg</filename>
+	<path>E:\new_images\new_images\1cf3d5a3-c7bd-4367-89ab-2a3b5b645572.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>816</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>qr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>405</ymin>
+			<xmax>358</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+</annotation>

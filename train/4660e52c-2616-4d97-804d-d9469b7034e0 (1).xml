@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>4660e52c-2616-4d97-804d-d9469b7034e0 (1).jpg</filename>
+	<path>E:\new_images\new_images\4660e52c-2616-4d97-804d-d9469b7034e0 (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>852</width>
+		<height>1136</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lcd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>219</ymin>
+			<xmax>564</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>qr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>756</ymin>
+			<xmax>355</xmax>
+			<ymax>811</ymax>
+		</bndbox>
+	</object>
+</annotation>

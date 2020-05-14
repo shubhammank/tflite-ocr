@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>24 febram dairy .jpg</filename>
+	<path>E:\new_images\new_images\24 febram dairy .jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1598</width>
+		<height>2131</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lcd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>622</xmin>
+			<ymin>745</ymin>
+			<xmax>935</xmax>
+			<ymax>852</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>qr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>574</xmin>
+			<ymin>1571</ymin>
+			<xmax>661</xmax>
+			<ymax>1645</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>augment_output</folder>
+	<filename>IMG20200216101745_82.jpg</filename>
+	<path>D:\Het\ocr\augmented\augment_output\IMG20200216101745_82.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>9248</width>
+		<height>6936</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lcd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6508</xmin>
+			<ymin>1590</ymin>
+			<xmax>8019</xmax>
+			<ymax>4490</ymax>
+		</bndbox>
+	</object>
+</annotation>

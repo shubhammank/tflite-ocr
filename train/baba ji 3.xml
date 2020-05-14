@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>baba ji 3.jpg</filename>
+	<path>E:\new_images\new_images\baba ji 3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>924</width>
+		<height>1232</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lcd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>380</ymin>
+			<xmax>642</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>qr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>404</xmin>
+			<ymin>846</ymin>
+			<xmax>548</xmax>
+			<ymax>949</ymax>
+		</bndbox>
+	</object>
+</annotation>

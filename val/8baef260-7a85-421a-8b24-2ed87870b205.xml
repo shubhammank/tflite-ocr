@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>8baef260-7a85-421a-8b24-2ed87870b205.jpg</filename>
+	<path>E:\new_images\new_images\8baef260-7a85-421a-8b24-2ed87870b205.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>852</width>
+		<height>1136</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lcd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>288</ymin>
+			<xmax>398</xmax>
+			<ymax>602</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>57 3.jpg</filename>
+	<path>E:\new_images\new_images\57 3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1465</width>
+		<height>1954</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lcd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>476</xmin>
+			<ymin>685</ymin>
+			<xmax>976</xmax>
+			<ymax>858</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>qr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>667</xmin>
+			<ymin>1240</ymin>
+			<xmax>754</xmax>
+			<ymax>1315</ymax>
+		</bndbox>
+	</object>
+</annotation>

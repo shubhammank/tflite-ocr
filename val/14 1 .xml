@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>14 1 .jpg</filename>
+	<path>E:\new_images\new_images\14 1 .jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>816</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lcd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>339</ymin>
+			<xmax>352</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>qr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>563</ymin>
+			<xmax>420</xmax>
+			<ymax>595</ymax>
+		</bndbox>
+	</object>
+</annotation>

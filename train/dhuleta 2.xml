@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>dhuleta 2.jpg</filename>
+	<path>E:\new_images\new_images\dhuleta 2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>933</width>
+		<height>1244</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lcd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>418</ymin>
+			<xmax>595</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>qr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>342</xmin>
+			<ymin>925</ymin>
+			<xmax>388</xmax>
+			<ymax>986</ymax>
+		</bndbox>
+	</object>
+</annotation>
